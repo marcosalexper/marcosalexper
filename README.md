@@ -24,3 +24,6 @@
     </a>
  </p>
  </details>
+     </br>
+      <p align= "center"> Visitor Count
+     <p align= "center"> <img align= "center" src="https://profile-counter.glitch.me/marcosalexper/count.svg"/></p>
