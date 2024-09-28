@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Marcos Alexandre Pereira
+### Hi there 👋
+My name is Marcos Alexandre Pereira, i am a programming student always looking for new challenges to improve my skills. I enjoy learning new technologies and finding efficient solutions to everyday problems.
 
 <details>
  <summary><b>🚀&nbsp; Languages and Tools</b></summary>
