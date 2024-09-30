@@ -26,6 +26,19 @@ My name is Marcos Alexandre Pereira, i am a programming student always looking f
     </a>
  </p>
  </details>
+      <details>
+  <summary><b>📱 &nbsp; Contact</b></summary>
+  <br/>
+
+  <a href="https://www.linkedin.com/in/marcosalexandrepereira/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br/>
+   <a href="https://www.instagram.com/mvrcsp/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  
+</details>
      </br>
       <p align= "center"> Visitor Count
      <p align= "center"> <img align= "center" src="https://profile-counter.glitch.me/marcosalexper/count.svg"/></p>
