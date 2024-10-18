@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marcos Alexandre Pereira, i am a programming student always looking for new challenges to improve my skills. I enjoy learning new technologies and finding efficient solutions to everyday problems.
+My name is Marcos, i am a programming student always looking for new challenges to improve my skills. I enjoy learning new technologies and finding efficient solutions to everyday problems.
 
 <details>
  <summary><b>🚀&nbsp; Languages and Tools</b></summary>
